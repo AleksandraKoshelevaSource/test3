@@ -12,6 +12,7 @@ namespace Test3Proj
         /// Главная точка входа для приложения.
         /// </summary>
         [STAThread]
+        //new comment
         static void Main()
         {
             Application.EnableVisualStyles();
